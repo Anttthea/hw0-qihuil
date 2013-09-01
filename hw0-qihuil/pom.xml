@@ -6,6 +6,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:Anttthea/hw0-qihuil.git</connection>
 		<developerConnection>scm:git:git@github.com:Anttthea/hw0-qihuil.git</developerConnection>
+		<url>https://github.com/Anttthea/hw0-qihuil</url>
 	</scm>
 	<repositories>
 		<repository>
